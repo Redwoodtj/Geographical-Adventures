@@ -1,4 +1,4 @@
-# Geographical Adventures
+hi i am sims # Geographical Adventures
 A little work-in-progress geography game about delivering packages to different countries around the world. </br>
 Made in the Unity game engine.
 
